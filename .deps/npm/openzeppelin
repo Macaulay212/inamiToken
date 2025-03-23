@@ -1,0 +1,8 @@
+/**
+ * Minified by jsDelivr using Terser v5.19.2.
+ * Original file: /npm/openzeppelin@1.0.0/.mocharc.js
+ *
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+module.exports={require:"hardhat/register",timeout:4e3};
+//# sourceMappingURL=/sm/64694fc1435e58649bb2b8e29c748c12a0e3cabb72499c4047ec1aa4f05deb47.map
